@@ -17,7 +17,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/athleterise.git
+git clone https://github.com/murali954/athleterise.git
 cd athleterise
 pip install -r requirements.txt
 ```
